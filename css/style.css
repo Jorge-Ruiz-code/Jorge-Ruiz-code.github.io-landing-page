@@ -1,0 +1,35 @@
+.header-color {
+    background-color: #bafb89;
+}
+
+#hero-header {
+    background-image: url("../img/waveazul.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#site-about{
+    background-color: #3e3b6b;
+}
+
+#site-conferencistas{
+    background-color: #f16ee1;
+}
+
+#site-horarios{
+    background-color: #f9d333;
+}
+
+#site-compra {
+    background-color: #bafb89;
+}
+
+#site-footer{
+    background-color: #72c9fb;
+}
+
+/* CODIGO DEL FORM */
+
+#site-form{
+    background: linear-gradient(#bafb89, #f16ee1);
+}
